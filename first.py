@@ -19,6 +19,7 @@ def Hello(name):
 
 Hello('Anton')
 Hello('Hasbik')
+Hello('Danilka')
 
 # Результат
 # Функция Hello была вызвана 1 раз
