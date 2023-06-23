@@ -26,3 +26,5 @@ Hello('Danilka')
 # Hello, Anton
 # Функция Hello была вызвана 2 раз
 # Hello, Hasbik
+# Функция Hello была вызвана 3 раз
+# Hello, Danilka
